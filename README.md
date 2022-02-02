@@ -1,17 +1,16 @@
 # WHO I AM
 
 <img
-        src="https://readme-typing-svg.herokuapp.https://i.imgur.com/Iag22tM.jpeg"
+        src="https://i.imgur.com/Iag22tM.jpeg"
         />
     </a>
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
-</p>g
+  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.imgur.com/Iag22tM.jpeg
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
+[![CREATE WIA BOT](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
 # ```WIA BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
