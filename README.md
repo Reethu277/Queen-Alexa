@@ -32,9 +32,6 @@ WhatsApp Bot
 [`CLICK HERE TO SCAN`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
 
-## `CHANGE DYNO`
-
-Off in web ny || turn off web button.
 
 ----------
 
