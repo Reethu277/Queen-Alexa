@@ -7,7 +7,7 @@
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.imgur.com/Iag22tM.jpeg
+  <a href="<img src="https://i.imgur.com/Iag22tM.jpeg
 WhatsApp Bot
 
 [![CREATE WIA BOT](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
