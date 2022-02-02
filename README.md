@@ -1,4 +1,4 @@
-# Queen Alexa
+# WHO I AM
 
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
@@ -29,7 +29,7 @@ WhatsApp Bot
 
 -------
 
-## `SCAN QR`
+## `SCAN QR AND DEPOLY WHO I AM'S BOT`
 
 [`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
@@ -53,9 +53,7 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
   <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
 </p>
 
-## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/BcMIibIUmHc)<br>
 
 ----------
 
