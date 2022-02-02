@@ -27,11 +27,11 @@ WhatsApp Bot
 
 -------
 
-## `SCAN QR AND DEPOLY WHO I AM'S BOT`
+## `SCAN QR AND DEPOLY WIA BOT`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[`CLICK HERE TO SCAN`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
-## `CHANGE SESSION`
+## `CLICK HERE TO DEPLOY`
 
 [`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
 
